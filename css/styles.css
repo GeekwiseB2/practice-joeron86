@@ -6,28 +6,35 @@
 .header {
   background-color: blue;
   padding: 20px;
-  height: 200px;
+  height: 600px;
   border: 2px solid black;
 }
 
 .nav{
   background-color: green;
-  padding: 20px;
-  height: 100px;
+  padding: 5px;
+  height: 75px;
+  border: 2px solid black;
+}
+
+.logo {
+  background-color: purple;
+  padding: 5px;
+  height: 75px;
   border: 2px solid black;
 }
 
 .content {
   background-color: red;
   padding: 20px;
-  height: 200px;
+  height: 400px;
   border: 2px solid black;
 }
 
-.aside {
+.photo {
   background-color: aqua;
   padding: 20px;
-  height: 200px;
+  height: 400px;
   border: 2px solid black;
 }
 
